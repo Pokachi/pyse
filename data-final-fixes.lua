@@ -1,0 +1,6 @@
+require "prototypes.technology-fixes"
+require "prototypes.entities-fixes"
+require "prototypes.item-fixes"
+require "prototypes.recipe-fixes"
+require "prototypes.fluid-fixes"
+require "prototypes.resources-fixes"
